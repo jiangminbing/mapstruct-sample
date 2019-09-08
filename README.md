@@ -1,2 +1,2 @@
-# mapstuct-sample
+# mapstruct-sample
 some example for MapStruct
